@@ -1,5 +1,5 @@
-                        NAME   : Hemapriya K 
-                        REG.NO : 212223040066
+                                         NAME   : Hemapriya K 
+                                         REG.NO : 212223040066
 #EX:2 Fitting Poisson  distribution
 # Aim : 
 
