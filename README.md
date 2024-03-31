@@ -1,6 +1,6 @@
-                                                   NAME   : Hemapriya K 
-                                                   REG.NO : 212223040066
-#EX:2 Fitting Poisson  distribution
+                                                            NAME   : Hemapriya K 
+                                                            REG.NO : 212223040066
+EX:2 Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
